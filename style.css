@@ -1,0 +1,31 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #fafafa;
+}
+
+.search-photo {
+    width: 20%;
+    height:20%
+}
+#phone-signal {
+    width: 5%;
+    margin-left: 170px;
+
+}
+#wifi {
+    width: 5%;
+
+}
+
+.menu-bar {
+    width: 65%;
+}
+
+@media screen and (min-width: 736px) {
+}
